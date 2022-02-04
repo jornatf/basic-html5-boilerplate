@@ -1,2 +1,26 @@
-# basic-html5-boilerplate
-A basic HTML5 Boilerplate.
+# Basic HTML5 Boilerplate
+
+![MIT Licence](https://shields.io/badge/license-MIT-blue)
+
+A basic HTML5 Boilerplate. This is a starter template for all developpers.
+
+## Usage
+
+The directory structure is:
+
+```
+.
+├── src
+│   ├── css
+│   │   ├── reset.css
+│   │   └── style.css
+│   ├── app.js
+│   ├── favicon.ico
+│   ├── index.html
+└── README.md
+```
+
+No installation required
+## Enjoy it !
+
+Don't hesitate, if you have any suggestions or if you want to improve the boilerplate.
