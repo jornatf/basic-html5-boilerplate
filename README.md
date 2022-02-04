@@ -2,7 +2,7 @@
 
 ![MIT Licence](https://shields.io/badge/license-MIT-blue)
 
-A basic HTML5 Boilerplate. This is a starter template for all developpers.
+A basic HTML5 Boilerplate. This is a starter template for all developers.
 
 ## Usage
 
