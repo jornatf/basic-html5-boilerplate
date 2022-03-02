@@ -15,8 +15,8 @@ The directory structure is:
 │   │   ├── reset.css
 │   │   └── style.css
 │   ├── app.js
-│   ├── favicon.ico
-│   ├── index.html
+│   ├── favicons
+│   └── index.html
 └── README.md
 ```
 
