@@ -24,7 +24,7 @@ No installation required
 
 ## Favicons
 
-You can generate favicons in https://favicon.io/favicon-converter.
+You can generate favicons here: https://favicon.io/favicon-converter.
 
 ## Enjoy it !
 
