@@ -21,6 +21,11 @@ The directory structure is:
 ```
 
 No installation required
+
+## Favicons
+
+You can generate favicons in https://favicon.io/favicon-converter.
+
 ## Enjoy it !
 
 Don't hesitate, if you have any suggestions or if you want to improve the boilerplate.
